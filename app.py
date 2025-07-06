@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 # 1️⃣ Load & Clean Data
 # ---------------------------
 print("📥 Loading dataset...")
-df = pd.read_csv('headache.csv')  # Make sure headache.csv is in same folder
+df = pd.read_csv('clickbait_data.csv')  # Make sure headache.csv is in same folder
 
 print("\n✅ Head of dataset:")
 print(df.head())
